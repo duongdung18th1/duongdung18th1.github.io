@@ -150,20 +150,7 @@ div.b-mobile {display:none;}
         window.attachEvent('onload', function(){ object[attribute] = val; });
       }
     }
-  </script>
-<div id="navbar-iframe-container"></div>
-<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
-<script type="text/javascript">
-      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
-        if (gapi.iframes && gapi.iframes.getContext) {
-          gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7667180299849229556\x26blogName\x3dD%C6%B0%C6%A1ng+D%C5%A9ng+\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dSILVER\x26layoutType\x3dCLASSIC\x26searchRoot\x3dhttps://duongdunginfo.blogspot.com/search\x26blogLocale\x3dvi\x26v\x3d2\x26homepageUrl\x3dhttps://duongdunginfo.blogspot.com/\x26vt\x3d1673637926770329889',
-              where: document.getElementById("navbar-iframe-container"),
-              id: "navbar-iframe"
-          });
-        }
-      });
-    </script>	
+
 		<div class="content">
 			<img src="https://i.imgur.com/a6hZKlt.jpg" alt="">
 			<div class="content_r clearfix">
